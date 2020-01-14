@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Aleksander",
+    "description": "Flightlog server"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Aleksander"
+  }
+}
